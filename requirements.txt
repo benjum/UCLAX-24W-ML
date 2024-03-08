@@ -12,5 +12,5 @@ dtreeviz
 xgboost
 nltk
 gensim
-tensorflow
+tensorflow==2.13
 jax[cpu]
